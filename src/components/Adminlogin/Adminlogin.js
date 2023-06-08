@@ -4,7 +4,7 @@ export default function Adminlogin() {
     return (
       <>
         <div className='container'>
-            <h2>Login</h2>
+            <h2>SUPER ADMIN Login</h2>
             <form>
                 <p>
                 <input type="text" id="username" name="username" placeholder="Username" required />
